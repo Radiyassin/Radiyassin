@@ -20,7 +20,7 @@ Analyzing customer reviews using **NLP and Machine Learning** to extract insight
 
 Analyzing customer reviews using **NLP and Machine Learning** to extract insights.
 
-🔗 [View Project](https://chatgpt.com/c/67be43c7-4094-8011-a025-270adb28f578#)
+🔗 [View Project](https://github.com/Radiyassin/Sentiment-Analysis-on-Product-Reviews)
 
 
 ## 📫 Connect with Me
